@@ -22,6 +22,7 @@
     <string>--logger_tls_period</string>
     <string>60</string>
     <string>--disable_distributed=false</string>
+    <string>--disable_events=false</string>
     <string>--distributed_plugin=tls</string>
     <string>--distributed_tls_read_endpoint=/osquery/distributed/read</string>
     <string>--distributed_tls_write_endpoint=/osquery/distributed/write</string>
